@@ -14,3 +14,6 @@ Questions asked of the dataset include:
 - Whether there exists a correlation between player's height, weight, and score? 
 
 - Whether there exists a correlation between player's height, weight, and wages?
+
+
+data kindly borrowed from: https://www.kaggle.com/karangadiya/fifa19 
