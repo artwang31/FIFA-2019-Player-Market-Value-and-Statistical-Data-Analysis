@@ -17,3 +17,5 @@ Questions asked of the dataset include:
 
   
 data kindly borrowed from: https://www.kaggle.com/karangadiya/fifa19 
+
+![Football Salaries and Age](https://github.com/artwang31/FIFA-Player-Market-Value-and-Statistical-Data-Analysis/blob/master/Salary%20vs%20Age%20-%20Football.png)
